@@ -145,31 +145,25 @@ Although the model achieves strong performance on emotions such as **Happy** and
 
 # 📉 Training Curves
 
-(Add screenshot here)
-
-```
-outputs/loss_curve.png
-```
+<p align="center">
+  <img src="assets/loss_curve.png" width="700">
+</p>
 
 ---
 
 # 📈 Accuracy Curves
 
-(Add screenshot here)
-
-```
-outputs/accuracy_curve.png
-```
+<p align="center">
+  <img src="assets/accuracy_curve.png" width="700">
+</p>
 
 ---
 
 # 📊 Confusion Matrix
 
-(Add screenshot here)
-
-```
-outputs/confusion_matrix.png
-```
+<p align="center">
+  <img src="assets/confusion_matrix.png" width="700">
+</p>
 
 ---
 
