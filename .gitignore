@@ -50,3 +50,7 @@ Thumbs.db
 
 dataset/*
 !dataset/README.md
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
